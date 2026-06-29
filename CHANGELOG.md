@@ -1,5 +1,9 @@
 # Changelog
 
+## [12.0.0-pre.3](https://github.com/npm/cli/compare/v12.0.0-pre.2...v12.0.0-pre.3) (2026-06-29)
+### Features
+* [`42b12c2`](https://github.com/npm/cli/commit/42b12c250ff3e2ecd756fd82666454ebafc9386c) [#9697](https://github.com/npm/cli/pull/9697) install-scripts: use install-scripts as the warning log title (@manzoorwanijk)
+
 ## [12.0.0-pre.2](https://github.com/npm/cli/compare/v12.0.0-pre.1...v12.0.0-pre.2) (2026-06-29)
 ### Features
 * [`b51d156`](https://github.com/npm/cli/commit/b51d156fd9858f418775df9c70859377eba1fa0c) [#9672](https://github.com/npm/cli/pull/9672) arborist: extend replace-registry-host with URL prefix matching (#6110) (#9672) (@u2mejc)
